@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Star History">
 <title>Star History for pdone/lx-music-source</title>
-<desc>从 2026-08-29 到 2026-11-13，star 数从 8310 增长到 11171</desc>
+<desc>从 2026-08-29 到 2026-11-14，star 数从 8310 增长到 11220</desc>
 <style>
   .bg { fill: #ffffff; }
   .grid { stroke: #e5e7eb; stroke-width: 1; }
@@ -25,7 +25,7 @@
 </style>
 <rect class="bg" width="1200" height="320"/>
 <text class="title" x="64" y="22">pdone/lx-music-source · Star History</text>
-<text class="subtitle" x="1168" y="22" text-anchor="end">11171 ★</text>
+<text class="subtitle" x="1168" y="22" text-anchor="end">11220 ★</text>
 <line class="grid" x1="64" y1="272.00" x2="1168" y2="272.00"/>
 <line class="grid" x1="64" y1="213.00" x2="1168" y2="213.00"/>
 <line class="grid" x1="64" y1="154.00" x2="1168" y2="154.00"/>
@@ -37,90 +37,91 @@
 <text class="tlabel" x="54" y="99.00" text-anchor="end">8850</text>
 <text class="tlabel" x="54" y="40.00" text-anchor="end">11800</text>
 <line class="axis" x1="64" y1="272" x2="1168" y2="272"/>
-<path class="area" d="M 64.00 272.00 L 64.00 105.80 L 78.53 105.36 L 93.05 104.68 L 107.58 104.26 L 122.11 103.76 L 136.63 103.18 L 151.16 102.74 L 165.68 102.26 L 180.21 101.68 L 194.74 100.98 L 209.26 100.66 L 223.79 100.10 L 238.32 99.78 L 252.84 99.06 L 267.37 98.44 L 281.89 97.62 L 296.42 96.68 L 310.95 95.94 L 325.47 95.42 L 340.00 94.74 L 354.53 94.26 L 369.05 93.26 L 383.58 92.50 L 398.11 91.70 L 412.63 91.26 L 427.16 90.42 L 441.68 89.46 L 456.21 88.54 L 470.74 87.88 L 485.26 87.14 L 499.79 86.14 L 514.32 85.28 L 528.84 84.56 L 543.37 84.08 L 557.89 83.34 L 572.42 82.74 L 586.95 82.02 L 601.47 81.14 L 616.00 80.54 L 630.53 79.78 L 645.05 79.00 L 659.58 78.24 L 674.11 77.64 L 688.63 77.00 L 703.16 76.36 L 717.68 75.62 L 732.21 75.10 L 746.74 74.54 L 761.26 73.90 L 775.79 73.26 L 790.32 72.88 L 804.84 72.32 L 819.37 71.72 L 833.89 71.12 L 848.42 70.48 L 862.95 69.68 L 877.47 68.86 L 892.00 67.82 L 906.53 67.04 L 921.05 66.06 L 935.58 65.60 L 950.11 64.38 L 964.63 63.14 L 979.16 62.06 L 993.68 60.62 L 1008.21 59.70 L 1022.74 58.58 L 1037.26 57.52 L 1051.79 56.42 L 1066.32 55.52 L 1080.84 54.42 L 1095.37 53.26 L 1109.89 52.24 L 1124.42 51.28 L 1138.95 50.60 L 1153.47 49.38 L 1168.00 48.58 L 1168.00 272.00 Z"/>
-<path class="line" d="M 64.00 105.80 L 78.53 105.36 L 93.05 104.68 L 107.58 104.26 L 122.11 103.76 L 136.63 103.18 L 151.16 102.74 L 165.68 102.26 L 180.21 101.68 L 194.74 100.98 L 209.26 100.66 L 223.79 100.10 L 238.32 99.78 L 252.84 99.06 L 267.37 98.44 L 281.89 97.62 L 296.42 96.68 L 310.95 95.94 L 325.47 95.42 L 340.00 94.74 L 354.53 94.26 L 369.05 93.26 L 383.58 92.50 L 398.11 91.70 L 412.63 91.26 L 427.16 90.42 L 441.68 89.46 L 456.21 88.54 L 470.74 87.88 L 485.26 87.14 L 499.79 86.14 L 514.32 85.28 L 528.84 84.56 L 543.37 84.08 L 557.89 83.34 L 572.42 82.74 L 586.95 82.02 L 601.47 81.14 L 616.00 80.54 L 630.53 79.78 L 645.05 79.00 L 659.58 78.24 L 674.11 77.64 L 688.63 77.00 L 703.16 76.36 L 717.68 75.62 L 732.21 75.10 L 746.74 74.54 L 761.26 73.90 L 775.79 73.26 L 790.32 72.88 L 804.84 72.32 L 819.37 71.72 L 833.89 71.12 L 848.42 70.48 L 862.95 69.68 L 877.47 68.86 L 892.00 67.82 L 906.53 67.04 L 921.05 66.06 L 935.58 65.60 L 950.11 64.38 L 964.63 63.14 L 979.16 62.06 L 993.68 60.62 L 1008.21 59.70 L 1022.74 58.58 L 1037.26 57.52 L 1051.79 56.42 L 1066.32 55.52 L 1080.84 54.42 L 1095.37 53.26 L 1109.89 52.24 L 1124.42 51.28 L 1138.95 50.60 L 1153.47 49.38 L 1168.00 48.58"/>
+<path class="area" d="M 64.00 272.00 L 64.00 105.80 L 78.34 105.36 L 92.68 104.68 L 107.01 104.26 L 121.35 103.76 L 135.69 103.18 L 150.03 102.74 L 164.36 102.26 L 178.70 101.68 L 193.04 100.98 L 207.38 100.66 L 221.71 100.10 L 236.05 99.78 L 250.39 99.06 L 264.73 98.44 L 279.06 97.62 L 293.40 96.68 L 307.74 95.94 L 322.08 95.42 L 336.42 94.74 L 350.75 94.26 L 365.09 93.26 L 379.43 92.50 L 393.77 91.70 L 408.10 91.26 L 422.44 90.42 L 436.78 89.46 L 451.12 88.54 L 465.45 87.88 L 479.79 87.14 L 494.13 86.14 L 508.47 85.28 L 522.81 84.56 L 537.14 84.08 L 551.48 83.34 L 565.82 82.74 L 580.16 82.02 L 594.49 81.14 L 608.83 80.54 L 623.17 79.78 L 637.51 79.00 L 651.84 78.24 L 666.18 77.64 L 680.52 77.00 L 694.86 76.36 L 709.19 75.62 L 723.53 75.10 L 737.87 74.54 L 752.21 73.90 L 766.55 73.26 L 780.88 72.88 L 795.22 72.32 L 809.56 71.72 L 823.90 71.12 L 838.23 70.48 L 852.57 69.68 L 866.91 68.86 L 881.25 67.82 L 895.58 67.04 L 909.92 66.06 L 924.26 65.60 L 938.60 64.38 L 952.94 63.14 L 967.27 62.06 L 981.61 60.62 L 995.95 59.70 L 1010.29 58.58 L 1024.62 57.52 L 1038.96 56.42 L 1053.30 55.52 L 1067.64 54.42 L 1081.97 53.26 L 1096.31 52.24 L 1110.65 51.28 L 1124.99 50.60 L 1139.32 49.38 L 1153.66 48.58 L 1168.00 47.60 L 1168.00 272.00 Z"/>
+<path class="line" d="M 64.00 105.80 L 78.34 105.36 L 92.68 104.68 L 107.01 104.26 L 121.35 103.76 L 135.69 103.18 L 150.03 102.74 L 164.36 102.26 L 178.70 101.68 L 193.04 100.98 L 207.38 100.66 L 221.71 100.10 L 236.05 99.78 L 250.39 99.06 L 264.73 98.44 L 279.06 97.62 L 293.40 96.68 L 307.74 95.94 L 322.08 95.42 L 336.42 94.74 L 350.75 94.26 L 365.09 93.26 L 379.43 92.50 L 393.77 91.70 L 408.10 91.26 L 422.44 90.42 L 436.78 89.46 L 451.12 88.54 L 465.45 87.88 L 479.79 87.14 L 494.13 86.14 L 508.47 85.28 L 522.81 84.56 L 537.14 84.08 L 551.48 83.34 L 565.82 82.74 L 580.16 82.02 L 594.49 81.14 L 608.83 80.54 L 623.17 79.78 L 637.51 79.00 L 651.84 78.24 L 666.18 77.64 L 680.52 77.00 L 694.86 76.36 L 709.19 75.62 L 723.53 75.10 L 737.87 74.54 L 752.21 73.90 L 766.55 73.26 L 780.88 72.88 L 795.22 72.32 L 809.56 71.72 L 823.90 71.12 L 838.23 70.48 L 852.57 69.68 L 866.91 68.86 L 881.25 67.82 L 895.58 67.04 L 909.92 66.06 L 924.26 65.60 L 938.60 64.38 L 952.94 63.14 L 967.27 62.06 L 981.61 60.62 L 995.95 59.70 L 1010.29 58.58 L 1024.62 57.52 L 1038.96 56.42 L 1053.30 55.52 L 1067.64 54.42 L 1081.97 53.26 L 1096.31 52.24 L 1110.65 51.28 L 1124.99 50.60 L 1139.32 49.38 L 1153.66 48.58 L 1168.00 47.60"/>
 <circle class="dot" cx="64.00" cy="105.80" r="2.5"/>
-<circle class="dot" cx="78.53" cy="105.36" r="2.5"/>
-<circle class="dot" cx="93.05" cy="104.68" r="2.5"/>
-<circle class="dot" cx="107.58" cy="104.26" r="2.5"/>
-<circle class="dot" cx="122.11" cy="103.76" r="2.5"/>
-<circle class="dot" cx="136.63" cy="103.18" r="2.5"/>
-<circle class="dot" cx="151.16" cy="102.74" r="2.5"/>
-<circle class="dot" cx="165.68" cy="102.26" r="2.5"/>
-<circle class="dot" cx="180.21" cy="101.68" r="2.5"/>
-<circle class="dot" cx="194.74" cy="100.98" r="2.5"/>
-<circle class="dot" cx="209.26" cy="100.66" r="2.5"/>
-<circle class="dot" cx="223.79" cy="100.10" r="2.5"/>
-<circle class="dot" cx="238.32" cy="99.78" r="2.5"/>
-<circle class="dot" cx="252.84" cy="99.06" r="2.5"/>
-<circle class="dot" cx="267.37" cy="98.44" r="2.5"/>
-<circle class="dot" cx="281.89" cy="97.62" r="2.5"/>
-<circle class="dot" cx="296.42" cy="96.68" r="2.5"/>
-<circle class="dot" cx="310.95" cy="95.94" r="2.5"/>
-<circle class="dot" cx="325.47" cy="95.42" r="2.5"/>
-<circle class="dot" cx="340.00" cy="94.74" r="2.5"/>
-<circle class="dot" cx="354.53" cy="94.26" r="2.5"/>
-<circle class="dot" cx="369.05" cy="93.26" r="2.5"/>
-<circle class="dot" cx="383.58" cy="92.50" r="2.5"/>
-<circle class="dot" cx="398.11" cy="91.70" r="2.5"/>
-<circle class="dot" cx="412.63" cy="91.26" r="2.5"/>
-<circle class="dot" cx="427.16" cy="90.42" r="2.5"/>
-<circle class="dot" cx="441.68" cy="89.46" r="2.5"/>
-<circle class="dot" cx="456.21" cy="88.54" r="2.5"/>
-<circle class="dot" cx="470.74" cy="87.88" r="2.5"/>
-<circle class="dot" cx="485.26" cy="87.14" r="2.5"/>
-<circle class="dot" cx="499.79" cy="86.14" r="2.5"/>
-<circle class="dot" cx="514.32" cy="85.28" r="2.5"/>
-<circle class="dot" cx="528.84" cy="84.56" r="2.5"/>
-<circle class="dot" cx="543.37" cy="84.08" r="2.5"/>
-<circle class="dot" cx="557.89" cy="83.34" r="2.5"/>
-<circle class="dot" cx="572.42" cy="82.74" r="2.5"/>
-<circle class="dot" cx="586.95" cy="82.02" r="2.5"/>
-<circle class="dot" cx="601.47" cy="81.14" r="2.5"/>
-<circle class="dot" cx="616.00" cy="80.54" r="2.5"/>
-<circle class="dot" cx="630.53" cy="79.78" r="2.5"/>
-<circle class="dot" cx="645.05" cy="79.00" r="2.5"/>
-<circle class="dot" cx="659.58" cy="78.24" r="2.5"/>
-<circle class="dot" cx="674.11" cy="77.64" r="2.5"/>
-<circle class="dot" cx="688.63" cy="77.00" r="2.5"/>
-<circle class="dot" cx="703.16" cy="76.36" r="2.5"/>
-<circle class="dot" cx="717.68" cy="75.62" r="2.5"/>
-<circle class="dot" cx="732.21" cy="75.10" r="2.5"/>
-<circle class="dot" cx="746.74" cy="74.54" r="2.5"/>
-<circle class="dot" cx="761.26" cy="73.90" r="2.5"/>
-<circle class="dot" cx="775.79" cy="73.26" r="2.5"/>
-<circle class="dot" cx="790.32" cy="72.88" r="2.5"/>
-<circle class="dot" cx="804.84" cy="72.32" r="2.5"/>
-<circle class="dot" cx="819.37" cy="71.72" r="2.5"/>
-<circle class="dot" cx="833.89" cy="71.12" r="2.5"/>
-<circle class="dot" cx="848.42" cy="70.48" r="2.5"/>
-<circle class="dot" cx="862.95" cy="69.68" r="2.5"/>
-<circle class="dot" cx="877.47" cy="68.86" r="2.5"/>
-<circle class="dot" cx="892.00" cy="67.82" r="2.5"/>
-<circle class="dot" cx="906.53" cy="67.04" r="2.5"/>
-<circle class="dot" cx="921.05" cy="66.06" r="2.5"/>
-<circle class="dot" cx="935.58" cy="65.60" r="2.5"/>
-<circle class="dot" cx="950.11" cy="64.38" r="2.5"/>
-<circle class="dot" cx="964.63" cy="63.14" r="2.5"/>
-<circle class="dot" cx="979.16" cy="62.06" r="2.5"/>
-<circle class="dot" cx="993.68" cy="60.62" r="2.5"/>
-<circle class="dot" cx="1008.21" cy="59.70" r="2.5"/>
-<circle class="dot" cx="1022.74" cy="58.58" r="2.5"/>
-<circle class="dot" cx="1037.26" cy="57.52" r="2.5"/>
-<circle class="dot" cx="1051.79" cy="56.42" r="2.5"/>
-<circle class="dot" cx="1066.32" cy="55.52" r="2.5"/>
-<circle class="dot" cx="1080.84" cy="54.42" r="2.5"/>
-<circle class="dot" cx="1095.37" cy="53.26" r="2.5"/>
-<circle class="dot" cx="1109.89" cy="52.24" r="2.5"/>
-<circle class="dot" cx="1124.42" cy="51.28" r="2.5"/>
-<circle class="dot" cx="1138.95" cy="50.60" r="2.5"/>
-<circle class="dot" cx="1153.47" cy="49.38" r="2.5"/>
-<circle class="dot" cx="1168.00" cy="48.58" r="2.5"/>
+<circle class="dot" cx="78.34" cy="105.36" r="2.5"/>
+<circle class="dot" cx="92.68" cy="104.68" r="2.5"/>
+<circle class="dot" cx="107.01" cy="104.26" r="2.5"/>
+<circle class="dot" cx="121.35" cy="103.76" r="2.5"/>
+<circle class="dot" cx="135.69" cy="103.18" r="2.5"/>
+<circle class="dot" cx="150.03" cy="102.74" r="2.5"/>
+<circle class="dot" cx="164.36" cy="102.26" r="2.5"/>
+<circle class="dot" cx="178.70" cy="101.68" r="2.5"/>
+<circle class="dot" cx="193.04" cy="100.98" r="2.5"/>
+<circle class="dot" cx="207.38" cy="100.66" r="2.5"/>
+<circle class="dot" cx="221.71" cy="100.10" r="2.5"/>
+<circle class="dot" cx="236.05" cy="99.78" r="2.5"/>
+<circle class="dot" cx="250.39" cy="99.06" r="2.5"/>
+<circle class="dot" cx="264.73" cy="98.44" r="2.5"/>
+<circle class="dot" cx="279.06" cy="97.62" r="2.5"/>
+<circle class="dot" cx="293.40" cy="96.68" r="2.5"/>
+<circle class="dot" cx="307.74" cy="95.94" r="2.5"/>
+<circle class="dot" cx="322.08" cy="95.42" r="2.5"/>
+<circle class="dot" cx="336.42" cy="94.74" r="2.5"/>
+<circle class="dot" cx="350.75" cy="94.26" r="2.5"/>
+<circle class="dot" cx="365.09" cy="93.26" r="2.5"/>
+<circle class="dot" cx="379.43" cy="92.50" r="2.5"/>
+<circle class="dot" cx="393.77" cy="91.70" r="2.5"/>
+<circle class="dot" cx="408.10" cy="91.26" r="2.5"/>
+<circle class="dot" cx="422.44" cy="90.42" r="2.5"/>
+<circle class="dot" cx="436.78" cy="89.46" r="2.5"/>
+<circle class="dot" cx="451.12" cy="88.54" r="2.5"/>
+<circle class="dot" cx="465.45" cy="87.88" r="2.5"/>
+<circle class="dot" cx="479.79" cy="87.14" r="2.5"/>
+<circle class="dot" cx="494.13" cy="86.14" r="2.5"/>
+<circle class="dot" cx="508.47" cy="85.28" r="2.5"/>
+<circle class="dot" cx="522.81" cy="84.56" r="2.5"/>
+<circle class="dot" cx="537.14" cy="84.08" r="2.5"/>
+<circle class="dot" cx="551.48" cy="83.34" r="2.5"/>
+<circle class="dot" cx="565.82" cy="82.74" r="2.5"/>
+<circle class="dot" cx="580.16" cy="82.02" r="2.5"/>
+<circle class="dot" cx="594.49" cy="81.14" r="2.5"/>
+<circle class="dot" cx="608.83" cy="80.54" r="2.5"/>
+<circle class="dot" cx="623.17" cy="79.78" r="2.5"/>
+<circle class="dot" cx="637.51" cy="79.00" r="2.5"/>
+<circle class="dot" cx="651.84" cy="78.24" r="2.5"/>
+<circle class="dot" cx="666.18" cy="77.64" r="2.5"/>
+<circle class="dot" cx="680.52" cy="77.00" r="2.5"/>
+<circle class="dot" cx="694.86" cy="76.36" r="2.5"/>
+<circle class="dot" cx="709.19" cy="75.62" r="2.5"/>
+<circle class="dot" cx="723.53" cy="75.10" r="2.5"/>
+<circle class="dot" cx="737.87" cy="74.54" r="2.5"/>
+<circle class="dot" cx="752.21" cy="73.90" r="2.5"/>
+<circle class="dot" cx="766.55" cy="73.26" r="2.5"/>
+<circle class="dot" cx="780.88" cy="72.88" r="2.5"/>
+<circle class="dot" cx="795.22" cy="72.32" r="2.5"/>
+<circle class="dot" cx="809.56" cy="71.72" r="2.5"/>
+<circle class="dot" cx="823.90" cy="71.12" r="2.5"/>
+<circle class="dot" cx="838.23" cy="70.48" r="2.5"/>
+<circle class="dot" cx="852.57" cy="69.68" r="2.5"/>
+<circle class="dot" cx="866.91" cy="68.86" r="2.5"/>
+<circle class="dot" cx="881.25" cy="67.82" r="2.5"/>
+<circle class="dot" cx="895.58" cy="67.04" r="2.5"/>
+<circle class="dot" cx="909.92" cy="66.06" r="2.5"/>
+<circle class="dot" cx="924.26" cy="65.60" r="2.5"/>
+<circle class="dot" cx="938.60" cy="64.38" r="2.5"/>
+<circle class="dot" cx="952.94" cy="63.14" r="2.5"/>
+<circle class="dot" cx="967.27" cy="62.06" r="2.5"/>
+<circle class="dot" cx="981.61" cy="60.62" r="2.5"/>
+<circle class="dot" cx="995.95" cy="59.70" r="2.5"/>
+<circle class="dot" cx="1010.29" cy="58.58" r="2.5"/>
+<circle class="dot" cx="1024.62" cy="57.52" r="2.5"/>
+<circle class="dot" cx="1038.96" cy="56.42" r="2.5"/>
+<circle class="dot" cx="1053.30" cy="55.52" r="2.5"/>
+<circle class="dot" cx="1067.64" cy="54.42" r="2.5"/>
+<circle class="dot" cx="1081.97" cy="53.26" r="2.5"/>
+<circle class="dot" cx="1096.31" cy="52.24" r="2.5"/>
+<circle class="dot" cx="1110.65" cy="51.28" r="2.5"/>
+<circle class="dot" cx="1124.99" cy="50.60" r="2.5"/>
+<circle class="dot" cx="1139.32" cy="49.38" r="2.5"/>
+<circle class="dot" cx="1153.66" cy="48.58" r="2.5"/>
+<circle class="dot" cx="1168.00" cy="47.60" r="2.5"/>
 <text class="tlabel" x="64.00" y="294" text-anchor="middle">2026-08-29</text>
-<text class="tlabel" x="252.84" y="294" text-anchor="middle">09-11</text>
-<text class="tlabel" x="427.16" y="294" text-anchor="middle">09-23</text>
-<text class="tlabel" x="616.00" y="294" text-anchor="middle">10-06</text>
-<text class="tlabel" x="804.84" y="294" text-anchor="middle">10-19</text>
-<text class="tlabel" x="979.16" y="294" text-anchor="middle">10-31</text>
-<text class="tlabel" x="1168.00" y="294" text-anchor="middle">2026-11-13</text>
+<text class="tlabel" x="250.39" y="294" text-anchor="middle">09-11</text>
+<text class="tlabel" x="436.78" y="294" text-anchor="middle">09-24</text>
+<text class="tlabel" x="623.17" y="294" text-anchor="middle">10-07</text>
+<text class="tlabel" x="795.22" y="294" text-anchor="middle">10-19</text>
+<text class="tlabel" x="981.61" y="294" text-anchor="middle">11-01</text>
+<text class="tlabel" x="1168.00" y="294" text-anchor="middle">2026-11-14</text>
 </svg>
